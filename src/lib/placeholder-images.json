@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "admin-avatar",
+      "description": "Avatar for the admin user",
+      "imageUrl": "https://images.unsplash.com/photo-1590650213165-c1fef80648c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwcm9mZXNzaW9uYWwlMjBwZXJzb258ZW58MHx8fHwxNzYyMzQyMDYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional person"
+    },
+    {
+      "id": "teacher-avatar-1",
+      "description": "Avatar for the first teacher",
+      "imageUrl": "https://images.unsplash.com/photo-1700616270842-0e14a8c42004?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmcmllbmRseSUyMHRlYWNoZXJ8ZW58MHx8fHwxNzYyMzY5MzQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "friendly teacher"
+    },
+    {
+      "id": "student-avatar-1",
+      "description": "Avatar for the first student",
+      "imageUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWlsaW5nJTIwc3R1ZGVudHxlbnwwfHx8fDE3NjIzMzc4ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling student"
+    },
+    {
+      "id": "parent-avatar-1",
+      "description": "Avatar for the first parent",
+      "imageUrl": "https://images.unsplash.com/photo-1628676348963-f88c671333f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYXBweSUyMHBhcmVudHxlbnwwfHx8fDE3NjI0MzUwNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy parent"
+    },
+    {
+      "id": "student-avatar-2",
+      "description": "Avatar for the second student",
+      "imageUrl": "https://images.unsplash.com/photo-1758685848758-74747f4f0727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmb2N1c2VkJTIwc3R1ZGVudHxlbnwwfHx8fDE3NjI0MjY0MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "focused student"
+    },
+    {
+      "id": "student-avatar-3",
+      "description": "Avatar for the third student",
+      "imageUrl": "https://images.unsplash.com/photo-1588912914049-d2664f76a947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjcmVhdGl2ZSUyMHN0dWRlbnR8ZW58MHx8fHwxNzYyNDM1MDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "creative student"
+    },
+    {
+      "id": "student-avatar-4",
+      "description": "Avatar for the fourth student",
+      "imageUrl": "https://images.unsplash.com/photo-1758270704851-adff797a2010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0aG91Z2h0ZnVsJTIwc3R1ZGVudHxlbnwwfHx8fDE3NjI0MzUwNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "thoughtful student"
+    },
+    {
+      "id": "login-image",
+      "description": "Decorative image for the login page",
+      "imageUrl": "https://images.unsplash.com/photo-1670284768187-5cc68eada1b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtb2Rlcm4lMjBjYW1wdXN8ZW58MHx8fHwxNzYyMzU4ODk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern campus"
+    }
+  ]
+}
